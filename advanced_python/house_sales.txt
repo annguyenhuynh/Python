@@ -1,0 +1,11 @@
+address: 1423 99th Ave
+square_feet: 1705
+priced_usd: 340210 
+
+address: 24257 Pueblo Dr
+square_feet: 2305
+priced_usd: 170210 
+
+address: 127 Cochran
+square_feet: 2068
+priced_usd: 320500 
