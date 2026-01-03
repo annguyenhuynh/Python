@@ -24,7 +24,7 @@ p1= Person('Phong', 32)
 hub_sent = 'My husband is {0.name} and he is {0.age} years old'.format(p1)
 print(hub_sent)
 
-Format number
+#Format number
 for i in range (1,11):
     sentence = 'The value is {:02}'.format(i)
     print(sentence)
