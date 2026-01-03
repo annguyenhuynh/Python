@@ -21,3 +21,7 @@ Generator expressions allow you to:
 • Avoid out-of-memory crashes
 
 Which matters a lot for your Glue ETL jobs.
+
+#### Sort() and Sorted() 
+* sort() works for list
+* sorted() works for iterables in general (tuples, sets)
