@@ -25,3 +25,6 @@ Which matters a lot for your Glue ETL jobs.
 #### Sort() and Sorted() 
 * sort() works for list
 * sorted() works for iterables in general (tuples, sets)
+
+#### ISO Format datetime
+* The ISO 8601 standard date format is YYYY-MM-DD, arranging year, month, and day from largest to smallest for clarity and sortability, with leading zeros for single-digit months/days (e.g., 2025-06-05). For date and time, a "T" separates them (YYYY-MM-DDTHH:MM:SS), often followed by a "Z" for UTC or an offset like +01:00. 
