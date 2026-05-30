@@ -1,0 +1,31 @@
+date,amount,category,description
+25-8-2025,110.25,Expense,Dinner
+13-9-2025,44.34,Expense,Groceries
+30-4-2025,2018.8,Income,Bi-weekly salary
+02-1-2025,2500.00,Income,Salary
+15-1-2025,120.75,Expense,Utilities
+22-2-2025,85.60,Expense,Restaurant
+08-3-2025,300.00,Expense,Car Maintenance
+27-3-2025,450.00,Income,Freelance Project
+10-4-2025,60.00,Expense,Internet Bill
+18-4-2025,95.20,Expense,Gas
+01-5-2025,2400.00,Income,Salary
+14-5-2025,33.40,Expense,Coffee Shop
+29-5-2025,150.00,Expense,Groceries
+06-6-2025,500.00,Income,Tax Refund
+11-6-2025,200.00,Expense,Clothes
+21-7-2025,2500.00,Income,Salary
+24-7-2025,80.50,Expense,Streaming Subscription
+09-8-2025,35.99,Expense,Books
+17-8-2025,220.00,Expense,Electricity Bill
+25-8-2025,110.25,Expense,Dinner
+31-8-2025,90.00,Expense,Gas
+13-9-2025,44.34,Expense,Groceries
+19-9-2025,2800.00,Income,Bonus
+04-10-2025,65.40,Expense,Movie Night
+12-10-2025,125.00,Expense,Restaurant
+20-11-2025,2500.00,Income,Salary
+27-11-2025,175.60,Expense,Thanksgiving Dinner
+03-12-2025,220.00,Expense,Christmas Shopping
+15-12-2025,500.00,Income,Freelance Payment
+28-12-2025,75.00,Expense,Transport
