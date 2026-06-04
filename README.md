@@ -28,3 +28,8 @@ Which matters a lot for your Glue ETL jobs.
 
 #### ISO Format datetime
 * The ISO 8601 standard date format is YYYY-MM-DD, arranging year, month, and day from largest to smallest for clarity and sortability, with leading zeros for single-digit months/days (e.g., 2025-06-05). For date and time, a "T" separates them (YYYY-MM-DDTHH:MM:SS), often followed by a "Z" for UTC or an offset like +01:00. 
+
+#### Itertools:  
+* a built-in library that provides a collection of fast, memory-efficient tools for working with iterators
+* itertools uses lazy evaluation to produce items one at a time only when needed. 
+* ![alt text](image.png)
